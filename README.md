@@ -79,3 +79,10 @@ npm unlink -g
 ```bash
 npm install eslint-plugin-boolean-state
 ```
+
+## Publishing
+
+```bash
+npm version patch/...
+npm publish
+```
