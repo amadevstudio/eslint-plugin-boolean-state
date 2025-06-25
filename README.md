@@ -19,7 +19,7 @@ This plugin helps teams write more expressive, readable code by enforcing a rule
 
 - ✅ Checks that `useState<boolean>` variables use appropriate prefixes.
 - ✅ Ensures that the corresponding setter name matches the variable (e.g., `setIsVisible` for `isVisible`).
-- 🔧 Comes with a recommended config for aeasy setup.
+- 🔧 Comes with a recommended config for aesy setup.
 - 🧠 Helps prevent ambiguous or misleading variable names in React components.
 
 ## 📦 Installation
