@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-boolean-state",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "index.js",
     "description": "ESLint rule enforcing boolean variable naming convention for useState (e.g., isVisible / setIsVisible)",
     "keywords": [
